@@ -36,7 +36,8 @@
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"o_debug_overlay_gamepad_tester","path":"objects/o_debug_overlay_gamepad_tester/o_debug_overlay_gamepad_tester.yy",},},
-    {"id":{"name":"o_ingame_gamepad_tester","path":"objects/o_ingame_gamepad_tester/o_ingame_gamepad_tester.yy",},},
+    {"id":{"name":"o_draw_gui_gamepad_tester","path":"objects/o_draw_gui_gamepad_tester/o_draw_gui_gamepad_tester.yy",},},
+    {"id":{"name":"o_info","path":"objects/o_info/o_info.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
